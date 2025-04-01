@@ -1,0 +1,9 @@
+Classification Report - XGBoost (Test Set)
+              precision    recall  f1-score   support
+
+           0       0.75      0.87      0.81      1370
+           1       0.67      0.47      0.55       750
+
+    accuracy                           0.73      2120
+   macro avg       0.71      0.67      0.68      2120
+weighted avg       0.72      0.73      0.72      2120
