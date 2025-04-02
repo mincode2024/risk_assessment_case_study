@@ -1,2 +1,0 @@
-Model,Train Accuracy,Train F1 Score,Train AUC,Test Accuracy,Test F1 Score,Test AUC
-Random Forest,0.891,0.834,0.955,0.889,0.832,0.946

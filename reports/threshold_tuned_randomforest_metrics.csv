@@ -1,0 +1,4 @@
+Set,Threshold,Accuracy,Precision,Recall,F1 Score,AUC
+Train,0.7,0.697,0.726,0.231,0.35,0.738
+Validation,0.7,0.671,0.622,0.18,0.279,0.702
+Test,0.7,0.68,0.636,0.224,0.331,0.718

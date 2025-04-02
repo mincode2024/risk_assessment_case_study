@@ -1,7 +1,7 @@
 Model,Accuracy,Precision,Recall,F1 Score,AUC,Best Params
-Logistic Regression,0.69,0.638,0.284,0.393,0.711,{'clf__C': 1}
-Random Forest,0.698,0.615,0.393,0.48,0.727,"{'clf__max_depth': 10, 'clf__n_estimators': 200}"
-AdaBoost,0.696,0.61,0.391,0.476,0.719,"{'clf__learning_rate': 0.5, 'clf__n_estimators': 100}"
-XGBoost,0.705,0.621,0.428,0.507,0.728,"{'clf__learning_rate': 0.1, 'clf__max_depth': 3, 'clf__n_estimators': 100}"
-Neural Network,0.708,0.637,0.409,0.498,0.725,"{'clf__alpha': 0.001, 'clf__hidden_layer_sizes': (32,)}"
-SVM (RBF Kernel),0.683,0.642,0.239,0.348,0.719,"{'clf__C': 1, 'clf__gamma': 0.01}"
+Logistic Regression,0.678,0.606,0.26,0.364,0.703,{'clf__C': 1}
+Random Forest,0.66,0.523,0.444,0.48,0.665,"{'clf__max_depth': 20, 'clf__n_estimators': 200}"
+AdaBoost,0.68,0.575,0.367,0.448,0.702,"{'clf__learning_rate': 1.0, 'clf__n_estimators': 100}"
+XGBoost,0.677,0.566,0.376,0.452,0.71,"{'clf__learning_rate': 0.3, 'clf__max_depth': 3, 'clf__n_estimators': 50}"
+Neural Network,0.671,0.55,0.389,0.455,0.688,"{'clf__alpha': 0.001, 'clf__hidden_layer_sizes': (64, 32)}"
+SVM (RBF Kernel),0.68,0.609,0.266,0.371,0.661,"{'clf__C': 10, 'clf__gamma': 'scale'}"

@@ -1,23 +1,4 @@
-Model,Best Parameters,Accuracy,Precision,Recall,F1 Score,AUC,Confusion Matrix
-XGBoost,"{'memory': None, 'steps': [('clf', XGBClassifier(base_score=None, booster=None, callbacks=None,
-              colsample_bylevel=None, colsample_bynode=None,
-              colsample_bytree=None, device=None, early_stopping_rounds=None,
-              enable_categorical=False, eval_metric='logloss',
-              feature_types=None, gamma=None, grow_policy=None,
-              importance_type=None, interaction_constraints=None,
-              learning_rate=0.3, max_bin=None, max_cat_threshold=None,
-              max_cat_to_onehot=None, max_delta_step=None, max_depth=3,
-              max_leaves=None, min_child_weight=None, missing=nan,
-              monotone_constraints=None, multi_strategy=None, n_estimators=100,
-              n_jobs=None, num_parallel_tree=None, random_state=42, ...))], 'transform_input': None, 'verbose': False, 'clf': XGBClassifier(base_score=None, booster=None, callbacks=None,
-              colsample_bylevel=None, colsample_bynode=None,
-              colsample_bytree=None, device=None, early_stopping_rounds=None,
-              enable_categorical=False, eval_metric='logloss',
-              feature_types=None, gamma=None, grow_policy=None,
-              importance_type=None, interaction_constraints=None,
-              learning_rate=0.3, max_bin=None, max_cat_threshold=None,
-              max_cat_to_onehot=None, max_delta_step=None, max_depth=3,
-              max_leaves=None, min_child_weight=None, missing=nan,
-              monotone_constraints=None, multi_strategy=None, n_estimators=100,
-              n_jobs=None, num_parallel_tree=None, random_state=42, ...), 'clf__objective': 'binary:logistic', 'clf__base_score': None, 'clf__booster': None, 'clf__callbacks': None, 'clf__colsample_bylevel': None, 'clf__colsample_bynode': None, 'clf__colsample_bytree': None, 'clf__device': None, 'clf__early_stopping_rounds': None, 'clf__enable_categorical': False, 'clf__eval_metric': 'logloss', 'clf__feature_types': None, 'clf__gamma': None, 'clf__grow_policy': None, 'clf__importance_type': None, 'clf__interaction_constraints': None, 'clf__learning_rate': 0.3, 'clf__max_bin': None, 'clf__max_cat_threshold': None, 'clf__max_cat_to_onehot': None, 'clf__max_delta_step': None, 'clf__max_depth': 3, 'clf__max_leaves': None, 'clf__min_child_weight': None, 'clf__missing': nan, 'clf__monotone_constraints': None, 'clf__multi_strategy': None, 'clf__n_estimators': 100, 'clf__n_jobs': None, 'clf__num_parallel_tree': None, 'clf__random_state': 42, 'clf__reg_alpha': None, 'clf__reg_lambda': None, 'clf__sampling_method': None, 'clf__scale_pos_weight': None, 'clf__subsample': None, 'clf__tree_method': None, 'clf__validate_parameters': None, 'clf__verbosity': None}",0.722,0.653,0.46,0.54,0.757,"[[5931  917]
- [2025 1725]]"
+Set,Model,Accuracy,Precision,Recall,F1 Score,AUC
+Train,XGBoost,0.72,0.656,0.441,0.527,0.749
+Validation,XGBoost,0.67,0.553,0.354,0.432,0.708
+Test,XGBoost,0.705,0.618,0.439,0.513,0.724

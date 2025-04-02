@@ -1,5 +1,5 @@
 {
-  "clf__C": 10,
+  "clf__C": 1,
   "clf__penalty": "l2",
   "clf__solver": "lbfgs"
 }
