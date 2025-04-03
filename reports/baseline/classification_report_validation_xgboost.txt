@@ -1,0 +1,8 @@
+               precision    recall  f1-score   support
+
+No Recidivism       0.71      0.82      0.76      1164
+   Recidivism       0.55      0.40      0.46       638
+
+     accuracy                           0.67      1802
+    macro avg       0.63      0.61      0.61      1802
+ weighted avg       0.66      0.67      0.66      1802
