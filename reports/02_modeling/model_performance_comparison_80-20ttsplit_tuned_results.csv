@@ -1,0 +1,7 @@
+Model,Accuracy,Precision,Recall,F1 Score,AUC,Best Params
+Logistic Regression,0.767,0.67,0.6,0.633,0.79,{'clf__C': 1}
+Random Forest,0.776,0.665,0.666,0.666,0.798,"{'clf__max_depth': 10, 'clf__n_estimators': 200}"
+AdaBoost,0.774,0.667,0.651,0.659,0.796,"{'clf__learning_rate': 1.0, 'clf__n_estimators': 50}"
+XGBoost,0.776,0.664,0.673,0.668,0.803,"{'clf__learning_rate': 0.1, 'clf__max_depth': 3, 'clf__n_estimators': 50}"
+Neural Network,0.764,0.655,0.622,0.638,0.789,"{'clf__alpha': 0.0001, 'clf__hidden_layer_sizes': (64, 32)}"
+SVM (RBF Kernel),0.769,0.669,0.617,0.642,0.793,"{'clf__C': 1, 'clf__gamma': 0.01}"

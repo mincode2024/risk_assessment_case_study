@@ -1,0 +1,10 @@
+Set,Model,Accuracy,Precision,Recall,F1 Score,AUC
+Train,Logistic Regression,0.771,0.684,0.59,0.634,0.809
+Validation,Logistic Regression,0.766,0.669,0.598,0.631,0.791
+Test,Logistic Regression,0.78,0.693,0.618,0.653,0.808
+Train,Random Forest,0.838,0.772,0.735,0.753,0.906
+Validation,Random Forest,0.822,0.747,0.71,0.728,0.891
+Test,Random Forest,0.777,0.664,0.678,0.67,0.83
+Train,XGBoost,0.811,0.731,0.689,0.709,0.87
+Validation,XGBoost,0.797,0.707,0.673,0.689,0.847
+Test,XGBoost,0.781,0.678,0.662,0.67,0.833
