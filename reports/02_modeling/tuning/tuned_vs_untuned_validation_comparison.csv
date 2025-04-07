@@ -1,0 +1,4 @@
+Model,Accuracy_Baseline,Accuracy_Tuned,Precision_Baseline,Precision_Tuned,Recall_Baseline,Recall_Tuned,F1 Score_Baseline,F1 Score_Tuned,AUC_Baseline,AUC_Tuned
+AdaBoost,0.777,0.777,0.675,0.673,0.644,0.65,0.659,0.661,0.804,0.806
+Logistic Regression,0.767,0.768,0.671,0.677,0.6,0.588,0.633,0.629,0.8,0.8
+Neural Network,0.775,0.776,0.68,0.686,0.621,0.613,0.649,0.648,0.801,0.805

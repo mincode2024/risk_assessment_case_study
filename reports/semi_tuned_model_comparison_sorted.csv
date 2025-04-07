@@ -1,0 +1,10 @@
+Set,Model,Accuracy,Precision,Recall,F1 Score,AUC,SetOrder
+Test,Logistic Regression,0.78,0.693,0.618,0.653,0.808,0
+Test,Neural Network,0.777,0.684,0.625,0.653,0.827,0
+Test,AdaBoost,0.783,0.683,0.658,0.671,0.833,0
+Validation,Neural Network,0.778,0.7,0.593,0.642,0.81,1
+Validation,AdaBoost,0.777,0.672,0.652,0.662,0.804,1
+Validation,Logistic Regression,0.766,0.669,0.598,0.631,0.791,1
+Train,Neural Network,0.783,0.709,0.6,0.65,0.832,2
+Train,AdaBoost,0.787,0.691,0.661,0.676,0.833,2
+Train,Logistic Regression,0.771,0.684,0.59,0.634,0.809,2
