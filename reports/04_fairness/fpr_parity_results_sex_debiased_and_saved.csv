@@ -1,0 +1,4 @@
+Model,Baseline FPR (Male),Baseline FPR (Female),FPR (Male),FPR (Female),Threshold (Male),Threshold (Female),Timestamp
+Logistic Regression,NA,NA,NA,NA,0.12,0.12,2025-04-11T15:50:51.856514
+AdaBoost,NA,NA,NA,NA,0.1,0.1,2025-04-11T15:50:53.070047
+Neural Network,NA,NA,NA,NA,0.84,0.84,2025-04-11T15:50:54.302560
