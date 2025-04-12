@@ -1,0 +1,14 @@
+Metric,LR_7,Logistic Regression,AdaBoost,Neural Network,Logistic Regression Debiased Final,Neural Network Debiased Final
+Accuracy (black),66.7%,73.5%,76.2%,75.9%,73.5%,75.9%
+Accuracy (overall),66.6%,75.4%,78.6%,76.7%,74.5%,75.9%
+Accuracy (white),66.0%,76.0%,80.5%,76.4%,76.0%,76.4%
+F1-score (black),69.3%,70.5%,69.0%,72.5%,70.5%,72.5%
+F1-score (white),59.2%,65.5%,66.7%,66.1%,65.5%,66.1%
+False negative (black),24.2%,19.2%,32.5%,19.2%,19.2%,19.2%
+False negative (white),47.3%,20.4%,32.0%,19.7%,20.4%,19.7%
+False positive (black),42.9%,31.2%,18.2%,27.3%,31.2%,27.3%
+False positive (white),25.3%,25.5%,14.5%,25.2%,25.5%,25.2%
+Precision (black),63.9%,62.6%,70.5%,65.7%,62.6%,65.7%
+Precision (white),67.6%,55.7%,65.4%,56.2%,55.7%,56.2%
+Recall (black),75.8%,80.8%,67.5%,80.8%,80.8%,80.8%
+Recall (white),52.7%,79.6%,68.0%,80.3%,79.6%,80.3%

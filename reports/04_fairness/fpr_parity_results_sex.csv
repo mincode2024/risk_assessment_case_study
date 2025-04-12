@@ -1,4 +1,4 @@
 Model,Baseline FPR (Male),Baseline FPR (Female),Baseline FPR Gap,FPR (Male),FPR (Female),FPR Gap (Postprocessed),Threshold (Male),Threshold (Female),Timestamp
-Logistic Regression,0.259,0.192,0.0668,0.939,0.938,0.0012,0.12,0.12,2025-04-11T15:52:11.908267
-AdaBoost,0.166,0.134,0.0323,1.0,1.0,0.0,0.1,0.1,2025-04-11T15:52:13.345977
-Neural Network,0.258,0.192,0.0655,0.049,0.049,0.0004,0.84,0.84,2025-04-11T15:52:14.671354
+Logistic Regression,0.259,0.192,0.0668,0.939,0.938,0.0012,0.12,0.12,2025-04-12T15:04:59.319133
+AdaBoost,0.166,0.134,0.0323,1.0,1.0,0.0,0.1,0.1,2025-04-12T15:05:00.678503
+Neural Network,0.258,0.192,0.0655,0.049,0.049,0.0004,0.84,0.84,2025-04-12T15:05:01.936921

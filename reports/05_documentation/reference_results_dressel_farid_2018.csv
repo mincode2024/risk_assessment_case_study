@@ -1,0 +1,14 @@
+Metric,LR_7
+Accuracy (overall),66.6%
+Accuracy (black),66.7%
+Accuracy (white),66.0%
+False positive (black),42.9%
+False positive (white),25.3%
+False negative (black),24.2%
+False negative (white),47.3%
+Precision (black),63.9%
+Recall (black),75.8%
+F1-score (black),69.3%
+Precision (white),67.6%
+Recall (white),52.7%
+F1-score (white),59.2%
