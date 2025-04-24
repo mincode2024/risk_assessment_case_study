@@ -1,4 +1,0 @@
-Set,Model,Accuracy,Precision,Recall,F1 Score,AUC
-Train,Logistic Regression,0.658,0.513,0.652,0.575,0.712
-Validation,Logistic Regression,0.66,0.516,0.665,0.581,0.704
-Test,Logistic Regression,0.667,0.523,0.675,0.59,0.706

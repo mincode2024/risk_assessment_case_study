@@ -1,8 +1,0 @@
-Feature,Importance
-priors_count,0.41763106
-age,0.22905101
-sex_encoded,0.11018684
-juv_misd_count,0.08678922
-c_charge_desc_encoded,0.062229086
-c_charge_degree_encoded,0.05090997
-juv_fel_count,0.043202884

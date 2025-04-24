@@ -1,4 +1,4 @@
 Model,Baseline FPR (Caucasian),Baseline FPR (African-American),Baseline FPR Gap,FPR (Caucasian),FPR (African-American),FPR Gap (Postprocessed),Threshold (Caucasian),Threshold (African-American),Timestamp
-Logistic Regression,0.183,0.326,0.143,0.005,0.006,0.001,0.9,0.9,2025-04-12T15:08:47.973458
-AdaBoost,0.132,0.216,0.084,1.0,1.0,0.0,0.1,0.1,2025-04-12T15:08:49.552698
-Neural Network,0.189,0.32,0.1312,0.008,0.019,0.011,0.9,0.9,2025-04-12T15:08:51.128262
+Logistic Regression,0.183,0.326,0.143,0.005,0.006,0.001,0.9,0.9,2025-04-24T18:23:28.979694
+AdaBoost,0.132,0.216,0.084,1.0,1.0,0.0,0.1,0.1,2025-04-24T18:23:30.698276
+Neural Network,0.189,0.32,0.1312,0.008,0.019,0.011,0.9,0.9,2025-04-24T18:23:32.131764

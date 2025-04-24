@@ -1,4 +1,0 @@
-Set,Model,Accuracy,Precision,Recall,F1 Score,AUC
-Train,XGBoost,0.72,0.656,0.441,0.527,0.749
-Validation,XGBoost,0.67,0.553,0.354,0.432,0.708
-Test,XGBoost,0.705,0.618,0.439,0.513,0.724

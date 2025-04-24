@@ -1,7 +1,0 @@
-Model,Accuracy,Precision,Recall,F1 Score,AUC
-Logistic Regression,0.691,0.65,0.276,0.388,0.708
-Random Forest,0.666,0.532,0.469,0.499,0.681
-AdaBoost,0.691,0.601,0.374,0.461,0.71
-XGBoost,0.688,0.583,0.408,0.48,0.698
-Neural Network,0.696,0.613,0.381,0.47,0.715
-SVM (RBF Kernel),0.693,0.646,0.29,0.401,0.69
