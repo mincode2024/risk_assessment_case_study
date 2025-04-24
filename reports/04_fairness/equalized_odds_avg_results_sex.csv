@@ -1,4 +1,4 @@
 Model,Equalized Odds Difference,Accuracy (Female),Precision (Female),Recall (Female),F1 (Female),Accuracy (Male),Precision (Male),Recall (Male),F1 (Male)
-Logistic Regression,0.0188,0.7908,0.6015,0.61,0.6055,0.7639,0.6923,0.5973,0.6413
-AdaBoost,0.0183,0.8039,0.6271,0.63,0.6284,0.7728,0.701,0.6224,0.6594
-Neural Network,0.0312,0.7724,0.5555,0.6725,0.6083,0.7712,0.6711,0.6911,0.6809
+Logistic Regression,0.0233,0.7914,0.6058,0.5975,0.6012,0.7639,0.6923,0.5973,0.6413
+AdaBoost,0.0268,0.7868,0.5945,0.5975,0.5959,0.7728,0.701,0.6224,0.6594
+Neural Network,0.0352,0.7868,0.5782,0.7075,0.6361,0.7712,0.6711,0.6911,0.6809

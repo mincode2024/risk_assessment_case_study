@@ -1,4 +1,5 @@
 Model,Accuracy,Precision,Recall,F1 Score,AUC,Best Params,Timestamp
-Logistic Regression,0.751,0.605,0.741,0.666,0.8,"{'clf__C': 0.01, 'clf__class_weight': 'balanced', 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}",2025-04-09T16:47:22.655951
-AdaBoost,0.777,0.673,0.65,0.661,0.806,"{'clf__learning_rate': 0.5, 'clf__n_estimators': 150}",2025-04-09T16:48:20.375795
-Neural Network,0.751,0.605,0.739,0.666,0.805,"{'clf__activation': 'relu', 'clf__alpha': 0.01, 'clf__early_stopping': True, 'clf__hidden_layer_sizes': (32,), 'clf__learning_rate': 'constant', 'clf__learning_rate_init': 0.001, 'clf__max_iter': 500}",2025-04-09T16:50:19.279691
+Logistic Regression,0.751,0.605,0.741,0.666,0.8,"{'clf__C': 0.01, 'clf__class_weight': 'balanced', 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}",2025-04-24T22:24:28.510320
+Logistic Regression,0.751,0.605,0.741,0.666,0.8,"{'clf__C': 0.01, 'clf__class_weight': 'balanced', 'clf__penalty': 'l2', 'clf__solver': 'liblinear'}",2025-04-24T22:24:35.954777
+AdaBoost,0.777,0.673,0.65,0.661,0.806,"{'clf__learning_rate': 0.5, 'clf__n_estimators': 150}",2025-04-24T22:25:13.670836
+Neural Network,0.751,0.605,0.739,0.666,0.805,"{'clf__activation': 'relu', 'clf__alpha': 0.01, 'clf__early_stopping': True, 'clf__hidden_layer_sizes': (32,), 'clf__learning_rate': 'constant', 'clf__learning_rate_init': 0.001, 'clf__max_iter': 500}",2025-04-24T22:27:22.593864
